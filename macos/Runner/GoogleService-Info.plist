@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDs2VtwQbPmsty1CiHDqU-M25AD_gDHw_g</string>
+	<key>GCM_SENDER_ID</key>
+	<string>286035927549</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ostadFlutterFirebase.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>fir-test-8fe50</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fir-test-8fe50.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:286035927549:ios:45860d5e9312ecf0de3994</string>
+	<key>DATABASE_URL</key>
+	<string>https://fir-test-8fe50-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
